@@ -50,7 +50,7 @@ The goal of this challenge is to parse the given csv file and store it as struct
 ### Sample Output
 | ISIN | DataDATE | Row in Tip | Name | Trading Type | RIKS | Issue Currency | Trading Currency | Last trading Day | Issuance Date | Maturty Date | Amount Outstanding | Coupon Rate | Maturty Date | Reddem Value | Last Coupon Date | Next Coupon Date | # Coupons | Base Value | CleanBid | CleanAsk | Last Price |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-IS0000030732 | 27-Aug-21 | 5 | ICE Inflation-linked Treasury Bonds | Iceland Cash Bond Trading | RIKS 26 0216 | ISK | ISK | 16-Feb-26 | 16-Feb-18 | 16-Feb-26 | "$37,879,700,000 " | 1.5 | 16-Feb-22 | 100 | 16-Feb-26 | 16-Feb-22 | 1 | 446.98571 | 106.45 | 106.67 | 106.56 |
+IS0000030732 | 27-Aug-21 | 5 | ICE Inflation-linked Treasury Bonds | Iceland Cash Bond Trading | RIKS 26 0216 | ISK | ISK | 16-Feb-26 | 16-Feb-18 | 16-Feb-26 | 37879700000 | 1.5 | 16-Feb-22 | 100 | 16-Feb-26 | 16-Feb-22 | 1 | 446.98571 | 106.45 | 106.67 | 106.56 |
 
 ## Technical Spec
 Use any language with which you are most comfortable. Overbond is a Rails shop, so if you can write the solution in Ruby, great! But it's not required. **The allocated time is ~ 1 day**
