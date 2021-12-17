@@ -2,11 +2,11 @@
 The following is a coding challenge that will give us some insight into your coding and problem solving abilities
 
 ## Challenge
-You will be provided with a raw unstructured data csv file. In this file, the data is stored as tags across multiple lines and multiple lines span a single record. Specifically, every 10 lines constitute to a single record.
+You will be provided with a raw unstructured data file. In this file, the data is stored as tags across multiple lines and multiple lines span a single record. Specifically, every 10 lines constitute to a single record.
 For instance, row 1 to 10 refers to one record, row 11 to 20 refers to another record and so forth 
 
 ### Goal
-The goal of this challenge is to parse the given csv file and store it as structured csv (1 row per record) with the listed structure below. The details of each required field is also provided below.
+The goal of this challenge is to parse the given file and store it as structured csv (1 row per record) with the listed structure below. The details of each required field is also provided below.
 
 | Field Names | Details |
 |-------------|----------|
