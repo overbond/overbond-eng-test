@@ -75,3 +75,5 @@ Remember, this is production level code. The aspects of your code we will judge 
 * **Code quality**: Is the code simple and easy to understand?
 * **Testing**: Are there automated tests? Do they provide sufficient coverage? 
 * **Documentation**: Is a README file included? Does it specify how to execute the app? Does it describe your approach sufficiently?
+## Submission
+Email us a zip file containing your solution or send us your solution's GitHub repo link
