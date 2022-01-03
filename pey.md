@@ -47,7 +47,7 @@ The goal of this challenge is to parse the given file and create a scatter plot 
 | BDBo | i3848464 | SiRIKV_21_1115 | s2 | BTy1 | DIs20111020 | AOs20800000000 | DMa20211115 | DCm3 | Mv100 | HaN | RDd0 | RDt1 | NRd2 | CPFrY | Fv1 | CFq0 | Cc8 | Vm1 | MDo255 | SSDaN | FIt1 |
 | BDLi | i14710 | SiISTB | s2 | LSt433 | SYmISTB | NAmICE Treasury Bills | LCyISK | TCeY |
 | BDLi | i14712 | SiICE_TREASURY_BILLS | s2 | LSt434 | PAi14710 | NAmICE Treasury Bills | LCyISK | TCeN |
-| m | i3848464 | t180000.356 | Dt20210827 | ISOcY | ISOtY | d0.01 | BPr99.625 |
+| m | i3848464 | t180000.356 | Dt20210827 | ISOcY | ISOtY | d0.01 | BPr99.94 |
 
 ### Sample Output
 This is what the parsed data along with the scatter plot should look like:
