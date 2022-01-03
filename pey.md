@@ -44,7 +44,7 @@ The goal of this challenge is to parse the given file and create a scatter plot 
 | BDIs | i15020 | SiRIK | s2 | ISsRIK | NAmRíkissjóður Íslands | CNyIS | MLEi254900IPCJWRC6XAJN15 |
 | BDt | i3848464 | SiRIKV_21_1115 | s2 | Ex138 | Mk896 | INiRIK040ICECBCSH | SYmRIKV 21 1115 | NAmRíkissjóður Íslands 21 1115 | SNmRIKV 21 1115 | ISnIS0000033116 | ISi15020 | ISsRIK | CUiISK | CUtISK | PRt3 | VOd2 | LDa20210601 | Cf1 | TTd20211115 | CFcDYZTXR | IEtBill | NMv1 | ITSz347 | NDp4 | NDc3 | MPmN | MPaN | NDTp4 | NDTc3 | CLId21232 | CNyIS | ITStN | SSc2 | STy4 | AUmY | TRaY | INrY | PTaN | PTb2 | OXCl0 | RLoY | IaN | FxN | IqN | TUsN | MSc449 | LSz1 |
 | BDu | i3848464 | SiRIKV_21_1115 | s2 | IICtISIN | FISnENDURLAN RIKISS/ZERO CPN B 20211115 | MIFrBOND | MCTyOTHR | MLIqN | MTcN | MLPr100000000 | MLPo0 | MSPo0 | MJCjN | MQu10000 | MBTyEUSB | MBPs0 | MCStN |
-| BDBo | i3848464 | SiRIKV_21_1115 | s2 | BTy1 | DIs20111020 | AOs20800000000 | DMa20211115 | DCm3 | Mv100 | HaN | RDd0 | RDt1 | NRd2 | CPFrY | Fv1 | CFq0 | Cc8 | Vm1 | MDo255 | SSDaN | FIt1 |
+| BDBo | i3848464 | SiRIKV_21_1115 | s2 | BTy1 | DIs20201001 | AOs20800000000 | DMa20211115 | DCm3 | Mv100 | HaN | RDd0 | RDt1 | NRd2 | CPFrY | Fv1 | CFq0 | Cc8 | Vm1 | MDo255 | SSDaN | FIt1 |
 | BDLi | i14710 | SiISTB | s2 | LSt433 | SYmISTB | NAmICE Treasury Bills | LCyISK | TCeY |
 | BDLi | i14712 | SiICE_TREASURY_BILLS | s2 | LSt434 | PAi14710 | NAmICE Treasury Bills | LCyISK | TCeN |
 | m | i3848464 | t180000.356 | Dt20210827 | ISOcY | ISOtY | d0.01 | BPr99.94 |
